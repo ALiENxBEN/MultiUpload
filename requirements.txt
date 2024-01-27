@@ -3,7 +3,7 @@ google-auth-httplib2
 google-auth-oauthlib 
 pycryptodomex 
 pillow 
-pyrogram 
+pyrogram==2.0.106
 tgcrypto 
 pycryptodomex 
 python-dotenv
